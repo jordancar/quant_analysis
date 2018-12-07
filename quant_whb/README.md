@@ -1,5 +1,4 @@
 # JXQuant
-该库主要分享“匠芯量化”公众号内的策略源码，更多策略细节请关注微信公众号：“匠芯量化”（微信搜索公众号“jxquant”）。
 
 目录：
 
@@ -20,3 +19,4 @@ stock_model_ev_resu.sql   ——   【模型评估】模型评估的结果表，
 stock_my_stock_pool.sql   ——   【策略回测】当前股票资产详情表，主要字段为:持仓股票代码，成交均价，持仓量，持仓天数。
 stock_stock_all.sql   ——   【策略回测】股票每日行情数据表，包含所有股票的日线行情。
 stock_stock_info.sql   ——   【策略回测】<stock_all>表的瘦身版，表结构相同，但删除了冗余数据，用于提高回测运行速度。
+god bless my dad 
